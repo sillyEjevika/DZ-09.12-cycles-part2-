@@ -86,7 +86,7 @@ public class Main {
             System.out.println ("Сегодня пятница, " + days + "-е число. Необходимо подготовить отчет");
         }
         // Задача 8
-        System.out.println("Задача №8");
+        System.out.println("Задача 8");
         for (int yearOfComet = 0; yearOfComet <=3000; yearOfComet =  yearOfComet + 79) {
             int ourDays = 2022;
             if (yearOfComet > (ourDays - 200) && yearOfComet < (ourDays + 100)) {
